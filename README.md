@@ -33,6 +33,7 @@ Here’s a list of available shaders in the repository, each adding unique visua
 - **drugs** (Credit: Unknown)
 - **invert** (Credit: Unknown)
 - **solarized** (Credit: Unknown)
+- **orgi** (Credit: [@vdawg-git](https://github.com/vdawg-git))
 
 Feel free to browse and experiment with these shaders to find the perfect look for your setup!
 
