@@ -45,4 +45,4 @@ None yet, but feel free to add your own and contribute! 😎
 
 ### Improvements:
 - [ ] You to ***PR*** a sexy shader.
-- [ ] You to ***STAT*** this repo.
+- [ ] You to ***STAR*** this repo.
