@@ -2,6 +2,8 @@
 
 A curated collection of shaders for Hyprland and Hyprshade that I've gathered (or "borrowed") over time.
 
+[Find More Cool Shaders Here](https://www.shadertoy.com/)
+
 ## Installation
 
 Clone the repository into your Hyprland config directory:
