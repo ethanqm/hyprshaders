@@ -28,12 +28,15 @@ Just replace `/path/to/shader` with the specific shader file you want to use.
 
 Here’s a list of available shaders in the repository, each adding unique visual effects to your Hyprland environment:
 
-- **retro** (Credit: Unknown)
-- **chromatic_aberration** (Credit: Unknown)
-- **drugs** (Credit: Unknown)
-- **invert** (Credit: Unknown)
-- **solarized** (Credit: Unknown)
-- **orgi** (Credit: [@vdawg-git](https://github.com/vdawg-git))
+- **retro** (Credit: [@wessles](https://github.com/wessles/GLSL-CRT), [@AymanLyesri](https://github.com/AymanLyesri))
+- **colors** (Credit: [@MahouShoujoMivutilde](https://github.com/MahouShoujoMivutilde), [@AymanLyesri](https://github.com/AymanLyesri))
+- **chromatic_aberration** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
+- **drugs** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
+- **crt** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
+- **extradark** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
+- **invert** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
+- **solarized** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
+- **orgi** (Credit: [@vdawg-git](https://github.com/vdawg-git/space_dots))
 
 Feel free to browse and experiment with these shaders to find the perfect look for your setup!
 
