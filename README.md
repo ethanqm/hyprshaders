@@ -34,13 +34,12 @@ Here’s a list of available shaders in the repository, each adding unique visua
 - **colors** (Credit: [@MahouShoujoMivutilde](https://github.com/MahouShoujoMivutilde), [@AymanLyesri](https://github.com/AymanLyesri))
 - **chromatic_aberration** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
 - **drugs** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
-- **crt** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
 - **extradark** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
 - **invert** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
 - **solarized** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
-- **orgi** (Credit: [@vdawg-git](https://github.com/vdawg-git/dotfiles))
+- **crt** (Credit: [@vdawg-git](https://github.com/vdawg-git/dotfiles))
 - **grain** (Credit: [@vdawg-git](https://github.com/vdawg-git/dotfiles))
-- **contrast** (Credit: [@vdawg-git](https://github.com/vdawg-git/dotfiles))
+- **contrast** (Credit: [@vdawg-git](https://github.com/vdawg-git/space_dots))
 
 Feel free to browse and experiment with these shaders to find the perfect look for your setup!
 
