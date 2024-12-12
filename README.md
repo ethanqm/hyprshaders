@@ -38,7 +38,7 @@ Here’s a list of available shaders in the repository, each adding unique visua
 - **extradark** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
 - **invert** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
 - **solarized** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
-- **orgi** (Credit: [@vdawg-git](https://github.com/vdawg-git/space_dots))
+- **orgi** (Credit: [@vdawg-git](https://github.com/vdawg-git/dotfiles))
 
 Feel free to browse and experiment with these shaders to find the perfect look for your setup!
 
