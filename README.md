@@ -45,7 +45,6 @@ Feel free to browse and experiment with these shaders to find the perfect look f
 
 ## Screenshots
 
-
 ### Normal (without shaders)
 <img width="1920" height="1080" alt="normal" src="https://github.com/user-attachments/assets/0ccd09b0-0f60-43dd-a5a3-0b8d36bd8c21" />
 
@@ -60,7 +59,7 @@ Feel free to browse and experiment with these shaders to find the perfect look f
 
 ### drugs
 
-https://github.com/user-attachments/assets/64a8250a-57f3-4a7a-952e-e809f10069b6
+<img width="1920" height="1080" alt="drugs" src="https://github.com/user-attachments/assets/64a8250a-57f3-4a7a-952e-e809f10069b6" />
 
 ### extradark
 <img width="1920" height="1080" alt="extradark" src="https://github.com/user-attachments/assets/b71769cd-555a-4982-98fc-3e791ed83e32" />
@@ -77,15 +76,5 @@ https://github.com/user-attachments/assets/64a8250a-57f3-4a7a-952e-e809f10069b6
 ### grain
 <img width="1920" height="1080" alt="grain2" src="https://github.com/user-attachments/assets/7f735015-78cd-4cb5-ae5e-9d9b3f190bb1" />
 
-> [!NOTE]  
-> I think the shader doesn't work properly on my machine, if it works better on yours, please replace this screenshot.
-
 ### contrast
 <img width="1920" height="1080" alt="contrast" src="https://github.com/user-attachments/assets/e85355f8-5db8-42f4-8d65-e0b8100be147" />
-
----
-
-### Improvements:
-- [ ] You to ***PR*** a sexy shader.
-- [ ] You to ***STAR*** this repo.
-
