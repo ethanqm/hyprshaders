@@ -1,80 +1,107 @@
 # HyprShaders ✨
 
-A curated collection of shaders for Hyprland and Hyprshade that I've gathered (or "borrowed") over time.
+A curated collection of shaders for Hyprshade that I've gathered (stole) over time.
 
-[Find More Cool Shaders Here](https://www.shadertoy.com/)
+Find other cool shaders [here](https://www.shadertoy.com/)
 
 ## Installation
 
-Clone the repository into your Hyprland config directory:
-
 ```bash
-git clone https://github.com/0x15BA88FF/hyprshaders.git /path/to/shader/directory
+git clone https://github.com/0x15BA88FF/hyprshaders.git
+cp ./hyprshaders/shaders /path/to/shaders/dir/
 ```
-
- I store my shaders in `~/.config/hypr/hyprshaders/` because it fits in well with my [dotfiles]([https://github.com/0x15BA88FF/hyproasis).
 
 ## Usage
 
-Before applying these awesome shaders, make sure you have [Hyprshade](https://github.com/loqusion/hyprshade) installed.
+> [!NOTE]
+> A majority of the shaders in this repo were tested for [Hyprshade](https://github.com/loqusion/hyprshade)
+> but they might work on other shader renderers.
 
-Once you have Hyprshade, you can easily apply a shader with the following command:
+With Hyprshade, you can apply a shader with the following command:
 
 ```bash
 hyprshade toggle /path/to/shader
 ```
 
-Just replace `/path/to/shader` with the specific shader file you want to use.
-
 ## Shader Collection
 
-Here’s a list of available shaders in the repository, each adding unique visual effects to your Hyprland environment:
+Here’s a list of available shaders in the repository
 
-- **retro** (Credit: [@wessles](https://github.com/wessles/GLSL-CRT), [@AymanLyesri](https://github.com/AymanLyesri))
-- **colors** (Credit: [@MahouShoujoMivutilde](https://github.com/MahouShoujoMivutilde), [@AymanLyesri](https://github.com/AymanLyesri))
-- **chromatic_aberration** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
-- **drugs** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
-- **extradark** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
-- **invert** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
-- **solarized** (Credit: [@end-4](https://github.com/end-4/dots-hyprland/))
-- **crt** (Credit: [@vdawg-git](https://github.com/vdawg-git/dotfiles))
-- **grain** (Credit: [@vdawg-git](https://github.com/vdawg-git/dotfiles))
-- **contrast** (Credit: [@vdawg-git](https://github.com/vdawg-git/space_dots))
-
-Feel free to browse and experiment with these shaders to find the perfect look for your setup!
-
-## Screenshots
-
-### Normal (without shaders)
-<img width="1920" height="1080" alt="normal" src="https://github.com/user-attachments/assets/0ccd09b0-0f60-43dd-a5a3-0b8d36bd8c21" />
-
-### retro
-<img width="1920" height="1080" alt="retro" src="https://github.com/user-attachments/assets/85fd1f8c-263c-4316-834d-cae41a99b03e" />
-
-### colors
-<img width="1920" height="1080" alt="colors" src="https://github.com/user-attachments/assets/1978b808-b314-48dc-af79-6963101a884d" />
-
-### chromatic_aberration
-<img width="1920" height="1080" alt="chromatic_abberation" src="https://github.com/user-attachments/assets/20ce6445-914a-4bf3-8d96-91b2de009940" />
-
-### drugs
-
-<img width="1920" height="1080" alt="drugs" src="https://github.com/user-attachments/assets/64a8250a-57f3-4a7a-952e-e809f10069b6" />
-
-### extradark
-<img width="1920" height="1080" alt="extradark" src="https://github.com/user-attachments/assets/b71769cd-555a-4982-98fc-3e791ed83e32" />
-
-### invert
-<img width="1920" height="1080" alt="invert" src="https://github.com/user-attachments/assets/3d04f48c-5a6c-4566-8fde-db9409aff056" />
-
-### solarized
-<img width="1920" height="1080" alt="solarized" src="https://github.com/user-attachments/assets/a49a9ce9-3cbc-4c79-a1a9-1978bffbb1f4" />
-
-### crt
-<img width="1920" height="1080" alt="crt" src="https://github.com/user-attachments/assets/94e85b60-9adc-4add-993a-4c53503a174d" />
-
-### grain
-<img width="1920" height="1080" alt="grain2" src="https://github.com/user-attachments/assets/7f735015-78cd-4cb5-ae5e-9d9b3f190bb1" />
-
-### contrast
-<img width="1920" height="1080" alt="contrast" src="https://github.com/user-attachments/assets/e85355f8-5db8-42f4-8d65-e0b8100be147" />
+<details>
+  <summary>
+    <b>Normal (Without shaders)</b>
+  </summary>
+  <img width="1920" height="1080" alt="normal" src="https://github.com/user-attachments/assets/0ccd09b0-0f60-43dd-a5a3-0b8d36bd8c21" />
+</details>
+<details>
+  <summary>
+    <b>Retro</b> Credit to: 
+    <a href="https://github.com/wessles/GLSL-CRT">@wessles</a>
+    <a href="https://github.com/AymanLyesri">@AymanLyesri</a>
+  </summary>
+  <img width="1920" height="1080" alt="retro" src="https://github.com/user-attachments/assets/85fd1f8c-263c-4316-834d-cae41a99b03e" />
+</details>
+<details>
+  <summary>
+    <b>Colors</b> Credit to: 
+    <a href="https://github.com/MahouShoujoMivutilde">@MahouShoujoMivutilde</a>
+    <a href="https://github.com/AymanLyesri">@AymanLyesri</a>
+  </summary>
+  <img width="1920" height="1080" alt="colors" src="https://github.com/user-attachments/assets/1978b808-b314-48dc-af79-6963101a884d" />
+</details>
+<details>
+  <summary>
+    <b>Chromatic Aberration</b> Credit to: 
+    <a href="https://github.com/end-4/dots-hyprland/">@end-4</a>
+  </summary>
+  <img width="1920" height="1080" alt="chromatic_abberation" src="https://github.com/user-attachments/assets/20ce6445-914a-4bf3-8d96-91b2de009940" />
+</details>
+<details>
+  <summary>
+    <b>Drugs</b> Credit to: 
+    <a href="https://github.com/end-4/dots-hyprland/">@end-4</a>
+  </summary>
+  <video width="1920" height="1080" alt="drugs" src="https://github.com/user-attachments/assets/64a8250a-57f3-4a7a-952e-e809f10069b6" />
+</details>
+<details>
+  <summary>
+    <b>Extradark</b> Credit to: 
+    <a href="https://github.com/end-4/dots-hyprland/">@end-4</a>
+  </summary>
+  <img width="1920" height="1080" alt="extradark" src="https://github.com/user-attachments/assets/b71769cd-555a-4982-98fc-3e791ed83e32" />
+</details>
+<details>
+  <summary>
+    <b>Invert</b> Credit to: 
+    <a href="https://github.com/end-4/dots-hyprland/">@end-4</a>
+  </summary>
+  <img width="1920" height="1080" alt="invert" src="https://github.com/user-attachments/assets/3d04f48c-5a6c-4566-8fde-db9409aff056" />
+</details>
+<details>
+  <summary>
+    <b>Solarized</b> Credit to: 
+    <a href="https://github.com/end-4/dots-hyprland/">@end-4</a>
+  </summary>
+  <img width="1920" height="1080" alt="solarized" src="https://github.com/user-attachments/assets/a49a9ce9-3cbc-4c79-a1a9-1978bffbb1f4" />
+</details>
+<details>
+  <summary>
+    <b>CRT</b> Credit to: 
+    <a href="https://github.com/vdawg-git/dotfiles">@vdawg-git</a>
+  </summary>
+  <img width="1920" height="1080" alt="crt" src="https://github.com/user-attachments/assets/94e85b60-9adc-4add-993a-4c53503a174d" />
+</details>
+<details>
+  <summary>
+    <b>Grain</b> Credit to: 
+    <a href="https://github.com/vdawg-git/dotfiles">@vdawg-git</a>
+  </summary>
+  <img width="1920" height="1080" alt="grain2" src="https://github.com/user-attachments/assets/7f735015-78cd-4cb5-ae5e-9d9b3f190bb1" />
+</details>
+<details>
+  <summary>
+    <b>Contrast</b> Credit to: 
+    <a href="https://github.com/vdawg-git/space_dots">@vdawg-git</a>
+  </summary>
+  <img width="1920" height="1080" alt="contrast" src="https://github.com/user-attachments/assets/e85355f8-5db8-42f4-8d65-e0b8100be147" />
+</details>
